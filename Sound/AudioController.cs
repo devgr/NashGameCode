@@ -1,12 +1,18 @@
 ﻿/*
+File: AudioController.cs
+Author: George Darling
+Updated: 10/22/2015
+
+Description:
+Use this class's public methods to play audio clips or add them to a queue to play after other sounds.
+
+How to use:
 Add to an empty game object to make a basic audio manager for your game.
 Put references to the following components in the inspector
     AudioSource component on a 3D object, set to 3D spatial spread. (Connect to audSource3D)
     AudioSource component on a 3D object, set to 3D spatial spread. (Connect to audSource3D2)
     AudioSource component anywhere, set to 2D spatial spread. (Connect to audSource2D)
     AudioSource component anywhere, set to 2D spatial spread. (Connect to backgroundMusic)
-
-Use this class's public methods to play audio clips or add them to a queue to play after other sounds.
 */
 
 using UnityEngine;
