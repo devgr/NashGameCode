@@ -1,6 +1,6 @@
 ﻿/*
 File: GameSession.cs
-Author: George Darling
+Author: George Darling (devgr)
 Updated: 10/22/2015
 
 Description:

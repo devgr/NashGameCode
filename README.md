@@ -13,3 +13,4 @@ Feel free to contribute any code that is relatively general and could be useful 
 
 * Timers
   * CountdownTimerController.cs - Provides a basic countdown timer with the ability to pause, start, reset. Minutes, seconds, & milliseconds are able to display (optional). Intented to update a Text UI component.
+  * PerformanceTimer.cs - Example of using the Stopwatch class to test code performance, and outputs the result to the console.
