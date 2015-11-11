@@ -7,6 +7,7 @@ Feel free to contribute any code that is relatively general and could be useful 
 ## File list:
 * Game Management
   * GameSession.cs - This is an example of a simple way to store global information in your Unity3D game that persists across scenes.
+  * Character.cs - Useful in a similar manner to GameSession.cs, this file shows a helpful way to organize characters.
 
 * Sound
   * AudioController.cs - Provides some basic functions for working with audio in Unity3D. Useful for adding background music and multiple sound effects.
